@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Anonimus_gamer_.aternos.me:56174",
+    "ip": "Anonimus_gamer_.aternos.me",
     "port": 56174,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
